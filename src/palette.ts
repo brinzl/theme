@@ -304,7 +304,7 @@ export const light: Roles = {
 
 export const dark: Roles = {
   bg: {
-    editor: gray["1040"],
+    editor: gray["1000"],
     window: gray["1000"],
     inset: gray["980"],
     elevated: gray["1020"]
@@ -339,20 +339,20 @@ export const dark: Roles = {
   },
   syntax: {
     comment: gray["600"],
-    string: green["400"],
+    string: green["300"],
     number: cyan["400"],
     keyword: pink["400"],
     regexp: teal["400"],
-    func: indigo["400"],
-    type: purple["400"],
-    variable: orange["400"],
+    func: indigo["300"],
+    type: purple["300"],
+    variable: orange["300"],
     // Extended token types
     operator: cyan["500"],
     punctuation: gray["700"],
     constant: yellow["400"],
     parameter: gray["400"],
-    namespace: yellow["500"],
-    decorator: blue["400"],
+    namespace: yellow["200"],
+    decorator: blue["300"],
     escape: cyan["400"],
     invalid: "#ffffff",
     tag: red["400"],
@@ -360,10 +360,10 @@ export const dark: Roles = {
   },
   ansi: {
     black: gray["1000"],
-    red: red["500"],
-    green: green["500"],
+    red: red["400"],
+    green: green["400"],
     yellow: yellow["500"],
-    blue: blue["500"],
+    blue: blue["400"],
     magenta: purple["500"],
     cyan: cyan["500"],
     white: gray["300"],

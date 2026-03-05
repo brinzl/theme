@@ -2,7 +2,7 @@
   "name": "Pierre Dark Vibrant",
   "type": "dark",
   "colors": {
-    "editor.background": "color(display-p3 0.027451 0.027451 0.027451)",
+    "editor.background": "color(display-p3 0.078431 0.078431 0.082008)",
     "editor.foreground": "color(display-p3 0.984314 0.984314 0.984314)",
     "foreground": "color(display-p3 0.984314 0.984314 0.984314)",
     "focusBorder": "color(display-p3 0.308664 0.645271 1.000000)",
@@ -39,7 +39,7 @@
     "list.inactiveSelectionBackground": "color(display-p3 0.098734 0.152326 0.240886 / 0.450000)",
     "list.hoverBackground": "color(display-p3 0.098734 0.152326 0.240886 / 0.350000)",
     "list.focusOutline": "color(display-p3 0.308664 0.645271 1.000000)",
-    "tab.activeBackground": "color(display-p3 0.027451 0.027451 0.027451)",
+    "tab.activeBackground": "color(display-p3 0.078431 0.078431 0.082008)",
     "tab.activeForeground": "color(display-p3 0.984314 0.984314 0.984314)",
     "tab.activeBorderTop": "color(display-p3 0.308664 0.645271 1.000000)",
     "tab.inactiveBackground": "color(display-p3 0.078431 0.078431 0.082008)",
@@ -83,10 +83,10 @@
     "terminal.background": "color(display-p3 0.078431 0.078431 0.082008)",
     "terminal.foreground": "color(display-p3 0.678431 0.678431 0.692733)",
     "terminal.ansiBlack": "color(display-p3 0.078431 0.078431 0.082008)",
-    "terminal.ansiRed": "color(display-p3 1.000000 0.250216 0.262337)",
-    "terminal.ansiGreen": "color(display-p3 0.298067 0.776115 0.322484)",
+    "terminal.ansiRed": "color(display-p3 0.999263 0.443812 0.404218)",
+    "terminal.ansiGreen": "color(display-p3 0.451324 0.823458 0.446819)",
     "terminal.ansiYellow": "color(display-p3 1.000000 0.832068 0.300621)",
-    "terminal.ansiBlue": "color(display-p3 0.308664 0.645271 1.000000)",
+    "terminal.ansiBlue": "color(display-p3 0.453315 0.683106 1.000000)",
     "terminal.ansiMagenta": "color(display-p3 0.770871 0.230698 0.945253)",
     "terminal.ansiCyan": "color(display-p3 0.327292 0.790977 0.995660)",
     "terminal.ansiWhite": "color(display-p3 0.776471 0.776471 0.783616)",
@@ -121,7 +121,7 @@
         "constant.other.symbol"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.451324 0.823458 0.446819)"
+        "foreground": "color(display-p3 0.594816 0.873088 0.579281)"
       }
     },
     {
@@ -130,7 +130,7 @@
         "punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.451324 0.823458 0.446819)"
+        "foreground": "color(display-p3 0.594816 0.873088 0.579281)"
       }
     },
     {
@@ -163,7 +163,7 @@
     {
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -222,7 +222,7 @@
         "meta.definition.variable"
       ],
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.688063 0.418777)"
+        "foreground": "color(display-p3 1.000000 0.738492 0.502045)"
       }
     },
     {
@@ -234,13 +234,13 @@
         "support.variable.object.node"
       ],
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.688063 0.418777)"
+        "foreground": "color(display-p3 1.000000 0.738492 0.502045)"
       }
     },
     {
       "scope": "variable.language",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -283,25 +283,25 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
       "scope": "keyword.other.special-method",
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
       "scope": "support.function.console",
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
@@ -312,7 +312,7 @@
         "storage.type"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.829375 0.434619 0.954315)"
+        "foreground": "color(display-p3 0.863619 0.536426 0.962355)"
       }
     },
     {
@@ -321,7 +321,7 @@
         "entity.name.type.class"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.829375 0.434619 0.954315)"
+        "foreground": "color(display-p3 0.863619 0.536426 0.962355)"
       }
     },
     {
@@ -331,31 +331,31 @@
         "variable.other.class.ts"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.829375 0.434619 0.954315)"
+        "foreground": "color(display-p3 0.863619 0.536426 0.962355)"
       }
     },
     {
       "scope": "entity.name.class.identifier.namespace.type",
       "settings": {
-        "foreground": "color(display-p3 0.829375 0.434619 0.954315)"
+        "foreground": "color(display-p3 0.863619 0.536426 0.962355)"
       }
     },
     {
       "scope": "entity.name.type.namespace",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
       "scope": "entity.other.inherited-class",
       "settings": {
-        "foreground": "color(display-p3 0.829375 0.434619 0.954315)"
+        "foreground": "color(display-p3 0.863619 0.536426 0.962355)"
       }
     },
     {
       "scope": "entity.name.namespace",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -499,7 +499,7 @@
     {
       "scope": "keyword.operator.expression.import",
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
@@ -511,7 +511,7 @@
     {
       "scope": "support.type.object.console",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.688063 0.418777)"
+        "foreground": "color(display-p3 1.000000 0.738492 0.502045)"
       }
     },
     {
@@ -521,13 +521,13 @@
         "entity.name.type.module"
       ],
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
       "scope": "support.constant.math",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -554,7 +554,7 @@
         "support.variable.property.dom"
       ],
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.688063 0.418777)"
+        "foreground": "color(display-p3 1.000000 0.738492 0.502045)"
       }
     },
     {
@@ -566,13 +566,13 @@
     {
       "scope": "meta.property.object",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.688063 0.418777)"
+        "foreground": "color(display-p3 1.000000 0.738492 0.502045)"
       }
     },
     {
       "scope": "variable.parameter.function.js",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.688063 0.418777)"
+        "foreground": "color(display-p3 1.000000 0.738492 0.502045)"
       }
     },
     {
@@ -581,7 +581,7 @@
         "keyword.other.template.end"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.451324 0.823458 0.446819)"
+        "foreground": "color(display-p3 0.594816 0.873088 0.579281)"
       }
     },
     {
@@ -590,7 +590,7 @@
         "keyword.other.substitution.end"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.451324 0.823458 0.446819)"
+        "foreground": "color(display-p3 0.594816 0.873088 0.579281)"
       }
     },
     {
@@ -611,13 +611,13 @@
     {
       "scope": "punctuation.section.embedded",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.688063 0.418777)"
+        "foreground": "color(display-p3 1.000000 0.738492 0.502045)"
       }
     },
     {
       "scope": "variable.interpolation",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.688063 0.418777)"
+        "foreground": "color(display-p3 1.000000 0.738492 0.502045)"
       }
     },
     {
@@ -643,19 +643,19 @@
         "support.type.builtin.tsx"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.829375 0.434619 0.954315)"
+        "foreground": "color(display-p3 0.863619 0.536426 0.962355)"
       }
     },
     {
       "scope": "support.type.type.flowtype",
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
       "scope": "support.type.primitive",
       "settings": {
-        "foreground": "color(display-p3 0.829375 0.434619 0.954315)"
+        "foreground": "color(display-p3 0.863619 0.536426 0.962355)"
       }
     },
     {
@@ -667,7 +667,7 @@
     {
       "scope": "variable.parameter.function.language.special.self.python",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -708,7 +708,7 @@
     {
       "scope": "meta.function-call.generic.python",
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
@@ -720,7 +720,7 @@
     {
       "scope": "meta.function.decorator.python",
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
@@ -741,13 +741,13 @@
     {
       "scope": "support.function.std.rust",
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
       "scope": "entity.name.lifetime.rust",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -864,7 +864,7 @@
         "storage.type.object.array.java"
       ],
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -904,7 +904,7 @@
     {
       "scope": "meta.method.java",
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
@@ -914,7 +914,7 @@
         "storage.type.generic.java"
       ],
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -938,7 +938,7 @@
     {
       "scope": "import.storage.java",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -956,13 +956,13 @@
     {
       "scope": "token.storage.type.java",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
       "scope": "keyword.operator.assignment.go",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -977,7 +977,7 @@
     {
       "scope": "entity.name.package.go",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -989,7 +989,7 @@
         "meta.interface.php"
       ],
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -1021,7 +1021,7 @@
         "keyword.other.array.phpdoc.php"
       ],
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -1031,7 +1031,7 @@
         "meta.function-call.static.php"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
@@ -1078,7 +1078,7 @@
         "support.other.php"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
@@ -1139,7 +1139,7 @@
     {
       "scope": "storage.type.cs",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -1151,7 +1151,7 @@
     {
       "scope": "entity.name.label.cs",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -1160,7 +1160,7 @@
         "entity.name.scope-resolution.function.definition"
       ],
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -1200,7 +1200,7 @@
     {
       "scope": "entity.global.clojure",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -1227,13 +1227,13 @@
     {
       "scope": "storage.modifier.import.groovy",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
       "scope": "meta.method.groovy",
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
@@ -1245,13 +1245,13 @@
     {
       "scope": "meta.definition.class.inherited.classes.groovy",
       "settings": {
-        "foreground": "color(display-p3 0.451324 0.823458 0.446819)"
+        "foreground": "color(display-p3 0.594816 0.873088 0.579281)"
       }
     },
     {
       "scope": "support.variable.semantic.hlsl",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -1282,7 +1282,7 @@
         "support.type.vb.asp"
       ],
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -1294,13 +1294,13 @@
     {
       "scope": "source.makefile",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
       "scope": "source.ini",
       "settings": {
-        "foreground": "color(display-p3 0.451324 0.823458 0.446819)"
+        "foreground": "color(display-p3 0.594816 0.873088 0.579281)"
       }
     },
     {
@@ -1339,7 +1339,7 @@
     {
       "scope": "entity.name.function.xi",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -1375,7 +1375,7 @@
     {
       "scope": "beginning.punctuation.definition.quote.markdown.xi",
       "settings": {
-        "foreground": "color(display-p3 0.451324 0.823458 0.446819)"
+        "foreground": "color(display-p3 0.594816 0.873088 0.579281)"
       }
     },
     {
@@ -1387,13 +1387,13 @@
     {
       "scope": "constant.character.xi",
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
       "scope": "accent.xi",
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
@@ -1488,7 +1488,7 @@
     {
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)",
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)",
         "fontStyle": "normal"
       }
     },
@@ -1586,7 +1586,7 @@
         "entity.name.section"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
@@ -1628,7 +1628,7 @@
     {
       "scope": "punctuation.definition.bold",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -1675,7 +1675,7 @@
         "string.other.link.description.markdown"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
@@ -1690,7 +1690,7 @@
         "markup.inline.raw.string.markdown"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.451324 0.823458 0.446819)"
+        "foreground": "color(display-p3 0.594816 0.873088 0.579281)"
       }
     },
     {
@@ -1735,7 +1735,7 @@
     {
       "scope": "markup.changed.diff",
       "settings": {
-        "foreground": "color(display-p3 1.000000 0.832068 0.300621)"
+        "foreground": "color(display-p3 1.000000 0.924355 0.684627)"
       }
     },
     {
@@ -1746,13 +1746,13 @@
         "punctuation.definition.to-file.diff"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
       "scope": "markup.inserted.diff",
       "settings": {
-        "foreground": "color(display-p3 0.451324 0.823458 0.446819)"
+        "foreground": "color(display-p3 0.594816 0.873088 0.579281)"
       }
     },
     {
@@ -1805,7 +1805,7 @@
         "source.json meta.structure.array.json > value.json > string.quoted.json > punctuation"
       ],
       "settings": {
-        "foreground": "color(display-p3 0.451324 0.823458 0.446819)"
+        "foreground": "color(display-p3 0.594816 0.873088 0.579281)"
       }
     },
     {
@@ -1850,7 +1850,7 @@
     {
       "scope": "token.info-token",
       "settings": {
-        "foreground": "color(display-p3 0.615613 0.445256 1.000000)"
+        "foreground": "color(display-p3 0.692196 0.532632 1.000000)"
       }
     },
     {
@@ -1898,20 +1898,20 @@
   ],
   "semanticTokenColors": {
     "comment": "color(display-p3 0.517647 0.517647 0.539124)",
-    "string": "color(display-p3 0.451324 0.823458 0.446819)",
+    "string": "color(display-p3 0.594816 0.873088 0.579281)",
     "number": "color(display-p3 0.452682 0.814110 0.989434)",
     "regexp": "color(display-p3 0.520590 0.857139 0.902107)",
     "keyword": "color(display-p3 0.994741 0.445201 0.573499)",
-    "variable": "color(display-p3 1.000000 0.688063 0.418777)",
+    "variable": "color(display-p3 1.000000 0.738492 0.502045)",
     "parameter": "color(display-p3 0.678431 0.678431 0.692733)",
-    "property": "color(display-p3 1.000000 0.688063 0.418777)",
-    "function": "color(display-p3 0.615613 0.445256 1.000000)",
-    "method": "color(display-p3 0.615613 0.445256 1.000000)",
-    "type": "color(display-p3 0.829375 0.434619 0.954315)",
-    "class": "color(display-p3 0.829375 0.434619 0.954315)",
-    "namespace": "color(display-p3 1.000000 0.832068 0.300621)",
+    "property": "color(display-p3 1.000000 0.738492 0.502045)",
+    "function": "color(display-p3 0.692196 0.532632 1.000000)",
+    "method": "color(display-p3 0.692196 0.532632 1.000000)",
+    "type": "color(display-p3 0.863619 0.536426 0.962355)",
+    "class": "color(display-p3 0.863619 0.536426 0.962355)",
+    "namespace": "color(display-p3 1.000000 0.924355 0.684627)",
     "enumMember": "color(display-p3 0.327292 0.790977 0.995660)",
     "variable.constant": "color(display-p3 1.000000 0.868456 0.454295)",
-    "variable.defaultLibrary": "color(display-p3 1.000000 0.832068 0.300621)"
+    "variable.defaultLibrary": "color(display-p3 1.000000 0.924355 0.684627)"
   }
 }
